@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: 'Ubuntu', sans-serif;
+}
+
+.water-ripple {
+   height: 100vh;
+   background-image: url(https://images.unsplash.com/photo-1529534765007-e501499f3749?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+   background-size: cover;
+   background-position: center;
+}
+
